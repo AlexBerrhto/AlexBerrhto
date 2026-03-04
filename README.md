@@ -1,6 +1,6 @@
 # Hi, I’m Alex Berrhto 
 
-**Chemist by Degree | Data Analyst by Spite | Java Hater by Experience**
+**Chemist by Degree | Data Analyst by Spite | Python Lover by Experience**
 
 I didn’t choose the tech life; I chose to be lazy, and the tech life chose me. My journey into coding started with a goldfish attention span, a 2.7 CGPA (out of 4), and a deep-seated hatred for manual data entry.
 
