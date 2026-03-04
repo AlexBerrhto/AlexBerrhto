@@ -64,16 +64,18 @@ So here I am. A guy with a Chemistry degree I don't use, a 1500 ELO in chess I d
 **To be continued...**
 
 </details>
----
 
+### 🧠 Soft Skills
 <p align="center">
-  <img src="./Soft Skills (1).png" alt="Tools Heatmap" width="700"/>
+  <img src="./Soft Skills (1).png" alt="Tools Heatmap" width="70%"//>
 </p>
 
+### 💻 Technical Languages
 <p align="center">
-  <img src="./Technical Languages.png" alt="Technical Languages.png" width="700"/>
+  <img src="./Technical Languages.png" alt="Technical Languages.png" width="70%"//>
 </p>
 
+### 🛠️ Tools Heatmap
 <p align="center">
-  <img src="./heatmap.png" alt="Technical Languages.png" width="700"/>
+  <img src="./heatmap.png" alt="Technical Languages.png" width="70%"//>
 </p>
