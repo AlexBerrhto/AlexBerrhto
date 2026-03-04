@@ -6,7 +6,7 @@ I didn’t choose the tech life; I chose to be lazy, and the tech life chose me.
 
 Now, I spend my time making sure data flows better than my attempts at Chemistry.
 
-* **Currently working on:** Advanced Python & mastering the art of "Thinking" as a Data Analyst.
+* **Currently working on:** Data Engineering (End to End pipeline), Advanced ML, Understanding AI and trying to make it understand me.
 * **Main Squeeze:** Python (It’s not Java, so I love it).
 * **Off-duty:** 1500 ELO Chess player (Grandmaster status loading...).
 * **Fun Fact:** My first project was a Java calculator. I still haven't touched OOP in Java. Don't ask.
