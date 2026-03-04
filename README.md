@@ -39,7 +39,7 @@ I started putting JAVA on my resume. It takes guts to claim expertise with a cal
 
 ---
 
-### 🐍 The Python Romanc e
+### 🐍 The Python Romance
  During this search—and due to my attention span of a goldfish—I came across a YouTube video: “Learn how to create your own website.” Ooh! La! La! A website! God damn, a website! No joke, even I can learn to make a website! How could I miss this?
  This is how I ended up learning HTML, CSS, PHP, and JavaScript. At least, I tried learning JavaScript. I thought it was no better than Java; I thought they were the same. The name is a scam. I am warning you: these languages starting with "Java" are very bad. But anyway, after creating websites for non-existent hotels, gyms, and restaurants—so many, because I really liked playing with CSS and copying backend JavaScript from Stack Overflow—three months passed before I remembered something. Oh yes! I was supposed to be looking for a tool to make my life easy. See how cool I am? I accidentally learned a full stack just for the love of the game.
 During "Search 2.0," a YouTuber whispered through the screen of my laptop, “Alex, come near… You know, there is a language in trend that will help you automate your data entry? Want to know what it is?” I asked what. It whispered: “Python.”
