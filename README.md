@@ -66,3 +66,6 @@ So here I am. A guy with a Chemistry degree I don't use, a 1500 ELO in chess I d
 </details>
 ---
 
+<p align="center">
+  <img src="./Soft Skills.png" alt="Tools Heatmap" width="700"/>
+</p>
