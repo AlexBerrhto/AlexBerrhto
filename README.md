@@ -1,4 +1,4 @@
-# Hi, I’m Alex Berrhto 👋
+# Hi, I’m Alex Berrhto 
 
 **Chemist by Degree | Data Analyst by Spite | Java Hater by Experience**
 
