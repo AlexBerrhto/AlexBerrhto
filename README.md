@@ -40,12 +40,13 @@ I started putting JAVA on my resume. It takes guts to claim expertise with a cal
 ---
 
 ### 🐍 The Python Romance
+But data entry started becoming monotonous and boring. I wanted to automate the process so I could finish an 8-hour job in 2 hours, hide that fact from my manager, and chill for the remaining 6. An absolute progressive plan to increase the revenue of my company. Following this plan, I started a desperate venture searching for a tool that could automate this glorious work.
  During this search—and due to my attention span of a goldfish—I came across a YouTube video: “Learn how to create your own website.” Ooh! La! La! A website! God damn, a website! No joke, even I can learn to make a website! How could I miss this?
  This is how I ended up learning HTML, CSS, PHP, and JavaScript. At least, I tried learning JavaScript. I thought it was no better than Java; I thought they were the same. The name is a scam. I am warning you: these languages starting with "Java" are very bad. But anyway, after creating websites for non-existent hotels, gyms, and restaurants—so many, because I really liked playing with CSS and copying backend JavaScript from Stack Overflow—three months passed before I remembered something. Oh yes! I was supposed to be looking for a tool to make my life easy. See how cool I am? I accidentally learned a full stack just for the love of the game.
 During "Search 2.0," a YouTuber whispered through the screen of my laptop, “Alex, come near… You know, there is a language in trend that will help you automate your data entry? Want to know what it is?” I asked what. It whispered: “Python.”
 Absolute goosebumps. What a cool name. How can someone not feel like learning Python? Come on! And when I searched, I saw they have Anaconda too! I definitely had to learn this. And guess how traumatizing that bitch Java must have been to me, because learning Python felt like basic math and English. Well, curse you, Java! May you be replaced completely by Python in Android as well. I don’t know if that’s possible, but yes, curse you!
 Coming back to Python, I found my love. I started coding day and night. By this time, the only thing I remembered about Java was its spelling. I started learning Python and, you know what? I automated my work! Yippee. Now: less work, more fun, and more Python. At least, that’s what I thought.
-But I became so efficient with data entry that they took me out of there and put me in **Data Analysis**.
+But I became so efficient with data entry that they took me out of there and put me in **Data Analysis**, where I finally understood where those data entries were going and what was happening to them. I always had a curiosity about what happened to my 8 hours of work, but I had been too busy with my romantic trysts with Python to notice anything else.
 
 ---
 
